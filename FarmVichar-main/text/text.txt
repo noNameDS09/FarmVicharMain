@@ -1,0 +1,45 @@
+"weather": {
+    "error": "Weather data not found for 'Mararikulam'. Check spelling."
+  },
+  "predictions": {
+    "recommended_crop": "Rice",
+    "yield_prediction_kg_acre": 3500,
+    "pest_risk_percent": 15,
+    "quality_grading_score": 85,
+    "price_range_per_quintal": {
+      "crop_name": "Rice",
+      "min_price": 2000,
+      "max_price": 2500
+    },
+    "applicable_schemes": [
+      "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "National Crop Insurance Programme"
+    ],
+    "applied_schemes": [
+      "None"
+    ]
+  }
+}
+
+Dashboard schema
+
+
+--- ✅ COMPLETE ACTIVITY LOGS for Anjali Menon ---
+[
+  {
+    "farmId": "AHJbtjc3Vi4OriO5TJmL",
+    "activityType": "Fertilizer",
+    "description": "Applied organic manure.",
+    "geoLocation": null,
+    "id": "Wd2cTvdp2ETlqNXNeu8e",
+    "timestamp": "2025-09-19T03:45:54.779358Z"
+  },
+  {
+    "farmId": "JNwLmHMe9ya20wNlZ0sS",
+    "activityType": "Sowing",
+    "description": "Sowed Uma variety paddy seeds.",
+    "geoLocation": null,
+    "id": "iI0ciR54G8uU1t1hVeaJ",
+    "timestamp": "2025-09-19T03:45:54.447282Z"
+  }
+]
